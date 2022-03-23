@@ -1,0 +1,37 @@
+= Using Your Coding Powers for Good (in a world that doesn't always feel that way)
+
+== Maintainer
+
+* Mark Heckler
+* mailto:mark@thehecklers.com[mark@thehecklers.com]
+* https://twitter.com/mkheck[@mkheck on Twitter]
+
+== Purpose
+
+This meta-repo accompanies my session titled *"Using Your Coding Powers for Good (in a world that doesn't always feel that way)"* and includes the code written within the session and much more.
+
+== Notes
+
+There are numerous upcoming tasks on my to-do list: 
+
+* Incorporate multiple data feeds
+* Improve area selection for feed consolidation/provider app
+* More and better querying/lists of aircraft positions
+* Refined mapping
+** Flight details
+** Aircraft details
+** Improved iconography
+
+...and that's just the beginning.
+
+*_Please star+watch this repo for updates!_*
+
+== Related repositories
+
+https://github.com/mkheck/flight-test[Spring Boot inbound flight-tracking application, provides data feeds to other subscribing apps]
+https://github.com/mkheck/flight-list[Spring Boot template-driven app for flight info in distributed system (PoC)]
+https://github.com/mkheck/flight-map[Spring Boot + Bing Maps-powered app for showing current flight info in distributed system (PoC)]
+
+== Related presentation
+
+https://speakerdeck.com/mkheck/["Using Your Coding Powers for Good (in a world that doesn't always feel that way)" presentation]
