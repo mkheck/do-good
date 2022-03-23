@@ -29,7 +29,9 @@ There are numerous upcoming tasks on my to-do list:
 == Related repositories
 
 https://github.com/mkheck/flight-test[Spring Boot inbound flight-tracking application, provides data feeds to other subscribing apps]
+
 https://github.com/mkheck/flight-list[Spring Boot template-driven app for flight info in distributed system (PoC)]
+
 https://github.com/mkheck/flight-map[Spring Boot + Bing Maps-powered app for showing current flight info in distributed system (PoC)]
 
 == Related presentation
